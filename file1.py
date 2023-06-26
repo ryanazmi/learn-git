@@ -1,1 +1,1 @@
-print(" file 1 perubahan 1")
+print("1 perubahan 2")
